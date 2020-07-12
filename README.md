@@ -19,7 +19,7 @@ Data can include whether the patient have heart disease or not and features rela
 - Descriptive Analysis
 - Modeling
 - Choices made
-- key relevant findings from exploritory data analysis
+- Key relevant findings from exploritory data analysis
 
 ## Results
 
@@ -57,12 +57,12 @@ To summarize everything above, we can see from above that to correctly classifie
 
 4) Age & Maxium Heart Rate - As you get older, your maximum heart rate goes down. We can see that individuals that have heart disease tend to be older and have a lower maximum heart rate.
 
-Our modeling shows that .... is the best model for our problem. This is because we want a model that generates a high recall value in order to minimize the chance of us classifying an individual as false negatives. We are classifying individuals with heart disease, if we classify someone with no heart disease and they do have it would be really bad. For other modelings that we did, please review the codes above.
+Our modeling shows that a regular XGBoost is the best model for our problem. This is because we want a model that generates a high recall value in order to minimize the chance of us classifying an individual as false negatives. Being that heart disease is really serious, it would be dangerous if we wrongly classify a person with no heart disease when they indeed do have heart disease.
 
 
 ## Limitations & Next Steps
 
-There are many features that we haven't considered. For example whether the family has a genetic disorder, body fat percentage, and the individual's diet.
+There are many features that we haven't considered. For example whether the family has a genetic disorder, body fat percentage, and the individual's diet. Also our model can be further improved by gathering more patient's information.
 
 
 ### For further information
@@ -78,9 +78,9 @@ Here is where you would describe the structure of your repoistory and its conten
 ```
 
 ├── README.md                       <- The top-level README for reviewers of this project.
-├── Housing_Prices.ipynb             <- narrative documentation of analysis in jupyter notebook
+├── Heart Disease.ipynb             <- narrative documentation of analysis in jupyter notebook
 ├── presentation.pdf                <- pdf version of project presentation
-└── images
+└── Visualization
     └── images                          <- both sourced externally and generated from code
 
 ```
