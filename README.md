@@ -44,6 +44,13 @@ Data can include whether the patient have heart disease or not and features rela
 ![graph5](./Visualizations/AgeMax.PNG)
 > Age of Individuals VS Maximum Heart Rate
 
+#### Models
+* AUC - Random Forest with GridSearchCV
+
+* Accuracy/Precision/F1 Score - XGBoost with GridSearchCV
+
+* Recall - XGBoost
+
 
 ## Recommendations:
 
@@ -66,7 +73,7 @@ There are many features that we haven't considered. For example whether the fami
 
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./Housing_Price.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./Heart Disease.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
 
 For any additional questions, please contact **andypeng93@gmail.com)
 
