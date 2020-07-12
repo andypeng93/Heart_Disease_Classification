@@ -25,20 +25,24 @@ Data can include whether the patient have heart disease or not and features rela
 
 
 #### Visual 1
-![graph1](./Image/WaterFrontView.png)
-> Box plot graph of Water Front View VS House Prices
+![graph1](./Visualizations/Gender.PNG)
+> Gender VS Heart Disease
 
 #### Visual 2
-![graph2](./Image/zipcodes.png)
-> Zip Code's Average Housing Prices
+![graph2](./Visualizations/ChestPain.PNG)
+> Chest Pain Types VS Heart Disease
 
 #### Visual 3
-![graph3](./Image/InteractiveMapping3.png)
-> Mapping of Zip Code's Average Housing Prices
+![graph3](./Visualizations/Thal.PNG)
+> Thalium Stress Result VS Heart Disease
 
 #### Visual 4
-![graph4](./Image/SqftLivingPrice.png)
-> Footage of the house vs Housing Prices
+![graph4](./Visualizations/Age.PNG)
+> Age of Individuals VS Heart Disease
+
+#### Visual 5
+![graph5](./Visualizations/AgeMax.PNG)
+> Age of Individuals VS Maximum Heart Rate
 
 
 ## Recommendations:
