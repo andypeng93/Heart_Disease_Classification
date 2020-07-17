@@ -45,11 +45,18 @@ Data can include whether the patient have heart disease or not and features rela
 > Age of Individuals VS Maximum Heart Rate
 
 #### Models
+![ROC Curve](./Visualizations/ROC1.PNG)
+> ROC Curve of the different Models
+
+![Model Results](./Visualizations/ModelResults.PNG)
+> Model Results of Base Model and Model Tuning
+
 * AUC - Random Forest with GridSearchCV
 
-* Accuracy/Precision/F1 Score - XGBoost with GridSearchCV
+* Accuracy/ F1 Score/ Recall - XGBoost
 
-* Recall - XGBoost
+* Precision - Decision Tree with GridSearchCV
+
 
 
 ## Recommendations:
