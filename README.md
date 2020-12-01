@@ -80,7 +80,7 @@ There are many features that we haven't considered. For example whether the fami
 
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./Heart Disease.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./Heart%20Disease.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
 
 For any additional questions, please contact **andypeng93@gmail.com)
 
