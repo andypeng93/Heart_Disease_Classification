@@ -25,7 +25,7 @@ Data can include whether the patient have heart disease or not and features rela
 
 
 #### Visual 1
-<img src=./Visualizations/Gender.PNG width="800">
+<img src=./Visualizations/Gender.PNG width="760">
 > Gender VS Heart Disease
 
 #### Visual 2
