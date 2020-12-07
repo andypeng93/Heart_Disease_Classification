@@ -29,7 +29,7 @@ Data can include whether the patient have heart disease or not and features rela
 > Gender VS Heart Disease
 
 #### Visual 2
-![graph2](./Visualizations/ChestPain.PNG)
+<img src=./Visualizations/ChestPain.PNG width="800">
 > Chest Pain Types VS Heart Disease
 
 #### Visual 3
