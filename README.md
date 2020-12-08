@@ -33,7 +33,7 @@ Data can include whether the patient have heart disease or not and features rela
 > Chest Pain Types VS Heart Disease
 
 #### Visual 3
-![graph3](./Visualizations/Thal.PNG)
+<img src=./Visualizations/Thal.PNG width="780">
 > Thalium Stress Result VS Heart Disease
 
 #### Visual 4
