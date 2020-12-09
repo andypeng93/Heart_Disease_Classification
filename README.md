@@ -37,7 +37,7 @@ Data can include whether the patient have heart disease or not and features rela
 > Thalium Stress Result VS Heart Disease
 
 #### Visual 4
-![graph4](./Visualizations/Age.PNG)
+<img src=./Visualizations/Age.PNG width="800">
 > Age of Individuals VS Heart Disease
 
 #### Visual 5
