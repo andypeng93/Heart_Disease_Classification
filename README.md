@@ -41,7 +41,7 @@ Data can include whether the patient have heart disease or not and features rela
 > Age of Individuals VS Heart Disease
 
 #### Visual 5
-![graph5](./Visualizations/AgeMax.PNG)
+<img src=./Visualizations/AgeMax.PNG width="820">
 > Age of Individuals VS Maximum Heart Rate
 
 #### Models
