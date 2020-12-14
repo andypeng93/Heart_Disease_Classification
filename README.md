@@ -45,7 +45,7 @@ Data can include whether the patient have heart disease or not and features rela
 > Age of Individuals VS Maximum Heart Rate
 
 #### Models
-<img src=./Visualizations/ROC1.PNG width="820">
+<img src=./Visualizations/ROC1.PNG width="780">
 > ROC Curve of the different Models
 
 ![Model Results](./Visualizations/ModelResults.PNG)
