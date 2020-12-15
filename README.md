@@ -48,7 +48,7 @@ Data can include whether the patient have heart disease or not and features rela
 <img src=./Visualizations/ROC1.PNG width="780">
 > ROC Curve of the different Models
 
-![Model Results](./Visualizations/ModelResults.PNG)
+<img src=./Visualizations/ModelResults.PNG width="780">
 > Model Results of Base Model and Model Tuning
 
 * AUC - Random Forest with GridSearchCV
