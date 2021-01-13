@@ -8,7 +8,7 @@ The contents of this repository detail an analysis of the module 3 project. This
 
 ### Business problem:
 
-I am tasked to investigate heart diseases for a hospital. For this project we will be looking at a data set of patients in a hospital some with heart diseases and some without heart diseases. The main goal of this project is to keep an eye out for certain features that will allow us to categorize this patient as having heart disease.
+The task is to investigate heart diseases for a hospital. For this project we will be looking at a data set of patients in a hospital some with heart diseases and some without heart diseases. The main goal of this project is to keep an eye out for certain features that will allow us to categorize this patient as having heart disease.
 
 
 ### Data
