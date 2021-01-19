@@ -1,4 +1,4 @@
-# Modeling Heart Diseases
+# Modeling Heart Diseases Classification
 ## Flatiron Mod 3 Project
 
 **Authors**: Andy Peng
