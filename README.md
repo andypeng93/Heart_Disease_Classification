@@ -76,7 +76,7 @@ Our modeling shows that a regular XGBoost is the best model for our problem. Thi
 
 ## Limitations & Next Steps
 
-There are many features that we haven't considered. For example whether the family has a genetic disorder, body fat percentage, and the individual's diet. Also our model can be further improved by gathering more patient's information.
+There are many features that we haven't considered. For example whether the family has a genetic disorder, body fat percentage, and the individual's diet. The model can be further improved by gathering more data.
 
 
 ### For further information
