@@ -63,15 +63,15 @@ Data can include whether the patient have heart disease or not and features rela
 
 To summarize everything above, we can see from above that to correctly classified a patient as having heart disease we need to consider the following features.
 
-1) Gener of the individual - Males have a higher chance at having heart disease than females.
+1) Gender of the individual - Males have a higher chance at having heart disease than females.
 
 2) Asymptomatic Chest Pain - Individuals with this type of chest pain have a high chance of having heart disease
 
 3) Reversable Defect - If the thalium stress result turns out to be reversable defect, the individual would have a high chance of having heart disease.
 
-4) Age & Maxium Heart Rate - As you get older, your maximum heart rate goes down. We can see that individuals that have heart disease tend to be older and have a lower maximum heart rate.
+4) Age & Maximum Heart Rate - As you get older, your maximum heart rate goes down. We can see that individuals that have heart disease tend to be older and have a lower maximum heart rate.
 
-Our modeling shows that a regular XGBoost is the best model for our problem. This is because we want a model that generates a high recall value in order to minimize the chance of us classifying an individual as false negatives. Being that heart disease is really serious, it would be dangerous if we wrongly classify a person with no heart disease when they indeed do have heart disease.
+Our modeling shows that a regular XGBoost is the best model for our problem. This is because we want a model that generates a high recall value in order to minimize the chances of false negatives. Being that heart disease is really serious, it would be dangerous if we wrongly classify a person with no heart disease when they indeed do have heart disease.
 
 
 ## Limitations & Next Steps
