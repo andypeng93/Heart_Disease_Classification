@@ -71,7 +71,7 @@ To summarize everything above, we can see from above that to correctly classifie
 
 4) Age & Maximum Heart Rate - As you get older, your maximum heart rate goes down. We can see that individuals that have heart disease tend to be older and have a lower maximum heart rate.
 
-Our modeling shows that a regular XGBoost is the best model for our problem. This is because we want a model that generates a high recall value in order to minimize the chances of false negatives. Being that heart disease is really serious, it would be dangerous if we wrongly classify a person with no heart disease when they indeed do have heart disease.
+Our modeling shows that a regular XGBoost is the best model for our problem. This is because we want a model that generates a high recall value in order to minimize the chances of false negatives. Being that heart disease is extremely serious, mistakenly classifying a patient as false negative can be very dangerous. 
 
 
 ## Limitations & Next Steps
