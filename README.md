@@ -1,6 +1,6 @@
 # Modeling Heart Diseases Classification
 
-**Authors**: Andy Peng
+**Author**: Andy Peng
 
 The contents of this repository detail an analysis of the module 3 project. This analysis is detailed in hopes of making the work accessible and replicable.
 
