@@ -2,7 +2,7 @@
 
 **Author**: Andy Peng
 
-The contents of this repository detail an analysis of the module 3 project. This analysis is detailed in hopes of making the work accessible and replicable.
+The contents of this repository detail an analysis of the modeling heart disease classification project. This analysis is detailed in hopes of making the work accessible and replicable.
 
 
 ### Business problem:
