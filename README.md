@@ -11,7 +11,7 @@ The task is to investigate heart diseases for a hospital. For this project we wi
 
 
 ### Data
-Data can include whether the patient have heart disease or not and features relating to the patient such as age, sex, chest pain, resting blood pressure, maximum heart rate, etc.
+Data includes whether the patient have heart disease or not and features relating to the patient such as age, sex, chest pain, resting blood pressure, maximum heart rate, etc.
 
 
 ## Methods
